@@ -1,3 +1,6 @@
+#code snippet for finding local peaks off of disance map translated from
+#original code written by Quentin Geissmann
+
 import numpy as np
 import scipy.io
 import matplotlib.pyplot as plt
